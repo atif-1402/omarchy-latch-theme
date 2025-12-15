@@ -1,0 +1,64 @@
+# Background
+theme[main_bg]="#EAEAEA"
+
+# Main text (strong)
+theme[main_fg]="#1F2120"
+
+# Titles (clearly darker)
+theme[title]="#3A3E3C"
+
+# Highlights / shortcuts
+theme[hi_fg]="#2F3432"
+
+# Selected process (YOU WILL SEE THIS)
+theme[selected_bg]="#C0C5C2"
+theme[selected_fg]="#1F2120"
+
+# Inactive text (still readable)
+theme[inactive_fg]="#7A807D"
+
+# Process misc
+theme[proc_misc]="#3A3E3C"
+
+# Box outlines & dividers (VISIBLE)
+theme[cpu_box]="#9AA09D"
+theme[mem_box]="#9AA09D"
+theme[net_box]="#9AA09D"
+theme[proc_box]="#9AA09D"
+theme[div_line]="#B5BAB7"
+
+# Temperature
+theme[temp_start]="#B5BAB7"
+theme[temp_mid]="#7A807D"
+theme[temp_end]="#3A3E3C"
+
+# CPU
+theme[cpu_start]="#B5BAB7"
+theme[cpu_mid]="#7A807D"
+theme[cpu_end]="#3A3E3C"
+
+# Memory
+theme[free_start]="#B5BAB7"
+theme[free_mid]="#9AA09D"
+theme[free_end]="#9AA09D"
+
+theme[cached_start]="#9AA09D"
+theme[cached_mid]="#9AA09D"
+theme[cached_end]="#9AA09D"
+
+theme[available_start]="#7A807D"
+theme[available_mid]="#7A807D"
+theme[available_end]="#7A807D"
+
+theme[used_start]="#3A3E3C"
+theme[used_mid]="#3A3E3C"
+theme[used_end]="#3A3E3C"
+
+# Network
+theme[download_start]="#B5BAB7"
+theme[download_mid]="#7A807D"
+theme[download_end]="#3A3E3C"
+
+theme[upload_start]="#B5BAB7"
+theme[upload_mid]="#7A807D"
+theme[upload_end]="#3A3E3C"
